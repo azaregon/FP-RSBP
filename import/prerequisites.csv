@@ -1,0 +1,54 @@
+prereq_code,course_code,min_grade,logic_group,comment
+EF234101,EF234201,D,AND,Dasar Pemrograman -> Struktur Data
+EF234102,EF234202,D,AND,Sistem Digital -> Sistem Operasi
+EF234102,EF234203,D,AND,Sistem Digital -> Organisasi Komputer
+EF234103,EF234204,D,AND,Aljabar Linear -> Komputasi Numerik
+KM234101,KM234201,D,AND,Kalkulus 1 -> Kalkulus 2
+EF234101,EF234301,D,AND,Dasar Pemrograman -> Pemrograman Web
+EF234201,EF234302,D,AND,Struktur Data -> Pemrograman Berorientasi Objek
+EF234202,EF234303,D,AND,Sistem Operasi -> Jaringan Komputer
+KM234201,EF234304,D,AND,Kalkulus 2 -> Teori Graf
+KM234201,EF234305,D,AND,Kalkulus 2 -> Matematika Diskrit
+EF234201,EF234306,D,AND,Struktur Data -> Konsep Kecerdasan Artifisial
+EF234303,EF234401,D,AND,Jaringan Komputer -> Pemrograman Jaringan
+EF234305,EF234402,D,AND,Matematika Diskrit -> Probabilitas dan Statistik
+KM234201,EF234403,D,AND,Kalkulus 2 -> Otomata
+EF234201,EF234404,D,AND,Struktur Data -> Manajemen Basis Data
+EF234201,EF234405,D,AND,Struktur Data -> Perancangan dan Analisis Algoritma
+EF234306,EF234406,D,AND,Konsep Kecerdasan Artifisial -> Pembelajaran Mesin
+EF234103,EF234406,D,AND,Aljabar Linear -> Pembelajaran Mesin
+EF234302,EF234407,D,AND,Pemrograman Berorientasi Objek -> Perancangan Perangkat Lunak
+EF234301,EF234501,D,AND,Pemrograman Web -> Pemrograman Berbasis Kerangka Kerja
+EF234303,EF234502,D,AND,Jaringan Komputer -> Keamanan Informasi
+EF234402,EF234503,D,AND,Probabilitas dan Statistik -> Pemodelan dan Simulasi
+EF234302,EF234504,D,AND,Pemrograman Berorientasi Objek -> Grafika Komputer
+EF234306,EF234505,D,AND,Konsep Kecerdasan Artifisial -> Rekayasa Sistem Berbasis Pengetahuan
+EF234303,EF234506,D,AND,Jaringan Komputer -> Teknologi Antar Jaringan
+EF234303,EF234507,D,AND,Jaringan Komputer -> Jaringan Nirkabel
+EF234404,EF234508,D,AND,Manajemen Basis Data -> Sistem Informasi
+EF234404,EF234509,D,AND,Manajemen Basis Data -> Tata Kelola Teknologi Informasi
+EF234406,EF234510,D,AND,Pembelajaran Mesin -> Pengolahan Citra dan Visi Komputer
+EF234406,EF234511,D,AND,Pembelajaran Mesin -> Ilmu Data
+EF234302,EF234601,D,AND,Pemrograman Berorientasi Objek -> Pemrograman Perangkat Bergerak
+EF234302,EF234602,D,AND,Pemrograman Berorientasi Objek -> Interaksi Manusia dan Komputer
+EF234303,EF234603,D,AND,Jaringan Komputer -> Komputasi Bergerak
+EF234303,EF234604,D,AND,Jaringan Komputer -> Keamanan Jaringan
+EF234202,EF234605,D,AND,Sistem Operasi -> Keamanan Aplikasi
+EF234303,EF234605,D,AND,Jaringan Komputer -> Keamanan Aplikasi
+EF234301,EF234606,D,AND,Pemrograman Web -> Pemrograman Khusus Antarmuka
+EF234503,EF234607,D,AND,Pemodelan dan Simulasi -> Simulasi Sistem Diskrit
+EF234503,EF234608,D,AND,Pemodelan dan Simulasi -> Simulasi Berbasis Agen
+EF234404,EF234609,D,AND,Manajemen Basis Data -> Audit Sistem
+EF234404,EF234610,D,AND,Manajemen Basis Data -> Sistem Satu Terdistribusi
+EF234406,EF234611,D,AND,Pembelajaran Mesin -> Deep Learning
+EF234406,EF234612,D,AND,Pembelajaran Mesin -> Komputasi Evolusioner dan Jaringan Syaraf
+EF234407,EF234613,D,AND,Perancangan Perangkat Lunak -> Arsitektur Perangkat Lunak
+EF234407,EF234614,D,AND,Perancangan Perangkat Lunak -> Kualitas Perangkat Lunak
+EF234303,EF234701,D,AND,Jaringan Komputer -> Forensik Digital
+EF234405,EF234702,D,AND,Perancangan dan Analisis Algoritma -> Pemrosesan Pengolahan Sinyal
+EF234402,EF234703,D,AND,Probabilitas dan Statistik -> Analisis Citra Multidimensi
+EF234503,EF234704,D,AND,Pemodelan dan Simulasi -> Simulasi Kemunculan Emergent
+EF234404,EF234706,D,AND,Manajemen Basis Data -> Big Data
+EF234407,EF234707,D,AND,Perancangan Perangkat Lunak -> Evolusi Perangkat Lunak
+EF234615,EF234708,D,AND,Kerja Praktik -> Pra-Tugas Akhir
+EF234708,EF234801,D,AND,Pra-Tugas Akhir -> Tugas Akhir

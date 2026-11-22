@@ -1,0 +1,62 @@
+code,name,credits,semester,type
+EF234101,Dasar Pemrograman,4,1,core
+KM234101,Kalkulus 1,3,1,core
+EF234102,Sistem Digital,3,1,core
+EF234103,Aljabar Linear,3,1,core
+UG234901,Pancasila,2,1,core
+UG234902,Kewarganegaraan,2,1,core
+UG234903,Bahasa Indonesia,2,1,core
+EF234201,Struktur Data,4,2,core
+EF234202,Sistem Operasi,4,2,core
+EF234203,Organisasi Komputer,3,2,core
+EF234204,Komputasi Numerik,3,2,core
+KM234201,Kalkulus 2,3,2,core
+UG234904,Agama,2,2,core
+EF234301,Pemrograman Web,3,3,core
+EF234302,Pemrograman Berorientasi Objek,3,3,core
+EF234303,Jaringan Komputer,4,3,core
+EF234304,Teori Graf,3,3,core
+EF234305,Matematika Diskrit,3,3,core
+EF234306,Konsep Kecerdasan Artifisial,3,3,core
+EF234401,Pemrograman Jaringan,3,4,core
+EF234402,Probabilitas dan Statistik,3,4,core
+EF234403,Otomata,3,4,core
+EF234404,Manajemen Basis Data,4,4,core
+EF234405,Perancangan dan Analisis Algoritma,3,4,core
+EF234406,Pembelajaran Mesin,3,4,core
+EF234407,Perancangan Perangkat Lunak,3,4,core
+EF234501,Pemrograman Berbasis Kerangka Kerja,3,5,core
+EF234502,Keamanan Informasi,3,5,core
+EF234503,Pemodelan dan Simulasi,3,5,core
+EF234504,Grafika Komputer,3,5,core
+EF234505,Rekayasa Sistem Berbasis Pengetahuan,3,5,core
+EF234506,Teknologi Antar Jaringan,3,5,elective
+EF234507,Jaringan Nirkabel,3,5,elective
+EF234508,Sistem Informasi,3,5,core
+EF234509,Tata Kelola Teknologi Informasi,3,5,elective
+EF234510,Pengolahan Citra dan Visi Komputer,3,5,elective
+EF234511,Ilmu Data,3,5,elective
+EF234601,Pemrograman Perangkat Bergerak,3,6,elective
+EF234602,Interaksi Manusia dan Komputer,3,6,core
+EF234603,Komputasi Bergerak,3,6,elective
+EF234604,Keamanan Jaringan,3,6,elective
+EF234605,Keamanan Aplikasi,3,6,elective
+EF234606,Pemrograman Khusus Antarmuka,3,6,elective
+EF234607,Simulasi Sistem Diskrit,3,6,elective
+EF234608,Simulasi Berbasis Agen,3,6,elective
+EF234609,Audit Sistem,3,6,elective
+EF234610,Sistem Satu Terdistribusi,3,6,elective
+EF234611,Deep Learning,3,6,elective
+EF234612,Komputasi Evolusioner dan Jaringan Syaraf,3,6,elective
+EF234613,Arsitektur Perangkat Lunak,3,6,elective
+EF234614,Kualitas Perangkat Lunak,3,6,elective
+EF234615,Kerja Praktik,3,6,core
+EF234701,Forensik Digital,3,7,elective
+EF234702,Pemrosesan Pengolahan Sinyal,3,7,elective
+EF234703,Analisis Citra Multidimensi,3,7,elective
+EF234704,Simulasi Kemunculan Emergent,3,7,elective
+EF234705,Kapita Selekta,3,7,elective
+EF234706,Big Data,3,7,elective
+EF234707,Evolusi Perangkat Lunak,3,7,elective
+EF234708,Pra-Tugas Akhir,2,7,core
+EF234801,Tugas Akhir,6,8,core

@@ -1,0 +1,9 @@
+id,name,parent_topic
+SOFT,Software Engineering,
+NETSEC,Cybersecurity and Networking,
+AI,Artificial Intelligence,
+ARCH,Architecture,
+GAME,Game and Graphics,
+ALGO,Algorithmic,
+DATA,Data and Database,
+MATH,Math Topics,
